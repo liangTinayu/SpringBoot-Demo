@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="017-springboot-mapper" />
+        <module name="SpringBoot-09-war-Arti" />
+        <module name="SpringBoot-05-Mybatis" />
+        <module name="SpringBoot-07-Mybatis-03-Arti" />
+        <module name="SpringBoot-02-MeavnStart" />
+        <module name="SpringBoot-01-Web" />
+        <module name="SpringBoot-03-HandlerInterceptor" />
+        <module name="018-springboot-mapperscan" />
+        <module name="SpringBoot-04-Servlet" />
+        <module name="SpringBoot-10-jar-Arti" />
+        <module name="SpringBoot-08-MybatisGenrator_Transcation-Arti" />
+        <module name="SpringBoot-06-Mybatis-02-Arti" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="017-springboot-mapper" target="1.8" />
+      <module name="018-springboot-mapperscan" target="1.8" />
+      <module name="SpringBoot-01-Web" target="1.8" />
+      <module name="SpringBoot-02-MeavnStart" target="1.8" />
+      <module name="SpringBoot-03-HandlerInterceptor" target="1.8" />
+      <module name="SpringBoot-04-Servlet" target="1.8" />
+      <module name="SpringBoot-05-Mybatis" target="1.8" />
+      <module name="SpringBoot-06-Mybatis-02-Arti" target="1.8" />
+      <module name="SpringBoot-07-Mybatis-03-Arti" target="1.8" />
+      <module name="SpringBoot-08-MybatisGenrator_Transcation" target="1.8" />
+      <module name="SpringBoot-08-MybatisGenrator_Transcation-Arti" target="1.8" />
+      <module name="SpringBoot-09-war-Arti" target="1.8" />
+      <module name="SpringBoot-10-jar-Arti" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="017-springboot-mapper" options="-parameters" />
+      <module name="018-springboot-mapperscan" options="-parameters" />
+      <module name="SpringBoot-01-Web" options="-parameters" />
+      <module name="SpringBoot-02-MeavnStart" options="-parameters" />
+      <module name="SpringBoot-03-HandlerInterceptor" options="-parameters" />
+      <module name="SpringBoot-04-Servlet" options="-parameters" />
+      <module name="SpringBoot-05-Mybatis" options="-parameters" />
+      <module name="SpringBoot-06-Mybatis-02-Arti" options="-parameters" />
+      <module name="SpringBoot-07-Mybatis-03-Arti" options="-parameters" />
+      <module name="SpringBoot-08-MybatisGenrator_Transcation" options="-parameters" />
+      <module name="SpringBoot-08-MybatisGenrator_Transcation-Arti" options="-parameters" />
+      <module name="SpringBoot-09-war-Arti" options="-parameters" />
+      <module name="SpringBoot-10-jar-Arti" options="-parameters" />
+    </option>
+  </component>
+</project>

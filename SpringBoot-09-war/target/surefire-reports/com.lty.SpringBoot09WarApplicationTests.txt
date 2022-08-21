@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lty.SpringBoot09WarApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.997 s - in com.lty.SpringBoot09WarApplicationTests

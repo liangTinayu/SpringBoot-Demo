@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/SpringBoot-09-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringBoot-01-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-02-MeavnStart/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-03-HandlerInterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-04-Servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-05-Mybatis/pom.xml" />
+        <option value="$USER_HOME$/Desktop/编程 资料/SpringBoot/动力节点/代码/018-springboot-mapperscan/018-springboot-mapperscan/pom.xml" />
+        <option value="$USER_HOME$/Desktop/编程 资料/SpringBoot/动力节点/代码/017-springboot-mapper/017-springboot-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-06-Mybatis-02/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-07-Mybatis-03/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-08-MybatisGenrator_Transcation/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-09-war/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-10-jar/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

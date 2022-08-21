@@ -1,0 +1,4 @@
+#激活多配置文件中的某个
+spring:
+  profiles:
+    active: dev
